@@ -15,7 +15,7 @@ This table shows what data sources are currently being used for each card and wh
 
 | Card # | Card Name | Currently Using (LinkedIn/Glassdoor/Indeed) | Additional Data Sources Needed (Not Currently Using) |
 |--------|-----------|---------------------------------------------|-------------------------------------------------------|
-| 1 | **Reality Card** | ✅ LinkedIn (similar jobs)<br>✅ Glassdoor (similar jobs)<br>✅ Indeed (similar jobs)<br>✅ LinkedIn (candidates)<br>✅ Glassdoor (salaries) | • Quality of Hire data<br>• Time-to-fill historical data<br>• Offer acceptance rates<br>• Real conversion rate data |
+| 1 | **Reality Card** | ✅ LinkedIn (similar jobs)<br>✅ Glassdoor (similar jobs)<br>✅ Indeed (similar jobs)<br>✅ LinkedIn (candidates)<br>✅ Glassdoor (salaries)  |
 | 2 | **Role Card** | ✅ LinkedIn (similar jobs)<br>✅ Glassdoor (similar jobs)<br>✅ Indeed (similar jobs) | • Internal company data (team size, reporting structure)<br>• Company culture data<br>• Success metrics from similar roles<br>• Real-time job posting trends |
 | 3 | **Market Card** | ✅ LinkedIn (similar jobs)<br>✅ Indeed (similar jobs)<br>✅ Glassdoor (similar jobs)<br>✅ LinkedIn (candidates) | • Real-time job posting trends<br>• Candidate activity data (who's looking)<br>• Geographic talent migration patterns<br>• Job posting velocity data |
 | 4 | **Skill Card** | ✅ LinkedIn (similar jobs)<br>✅ Glassdoor (similar jobs)<br>✅ Indeed (similar jobs) | • Skill demand trends<br>• Emerging skills data<br>• Skill combination patterns<br>• Industry skill evolution data |
